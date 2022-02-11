@@ -3105,6 +3105,7 @@
         <field>WorkTypeGroup.IsActive</field>
         <readable>false</readable>
     </fieldPermissions>
-    <hasActivationRequired>true</hasActivationRequired>
-    <label>Test_Leela</label>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Test-Hometab</label>
+    <license>Salesforce</license>
 </PermissionSet>
